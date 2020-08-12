@@ -19,3 +19,7 @@ I graduated from Maulana Malik Ibrahim Malang Islamic University with Bachelor D
 - 💬 You can Ask me about -> Swift or iOS Development Environment
 - 📫 How to reach me: [agus.c@icloud.com](agus.c@icloud.com)
 - ⚡ Fun fact: Take me fishing, I'll find a big fish for us MukBang
+
+### 📊 Stats: 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=balitax&show_icons=true) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balitax)
