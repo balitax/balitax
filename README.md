@@ -3,7 +3,7 @@
 
 I graduated from Maulana Malik Ibrahim Malang Islamic University with Bachelor Degree in Informatics Engineering. I've been working in software development for over 5+ years, and have spent the last 4 years working as iOS Developer. 
 
-#### 🔭 Currently working at [Upwork](https://www.upwork.com/) as Senior Freelance iOS Developer.
+#### 🔭 Currently working at [Stockbit](https://www.stockbit.com/) as iOS Engineer.
 
 # Previously :
  - SehatQ , PT Harsana Emedika ([SehatQ](http://www.sehatq.com/)) as Senior iOS Developer
