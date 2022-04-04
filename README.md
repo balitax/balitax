@@ -6,10 +6,12 @@ I graduated from Maulana Malik Ibrahim Malang Islamic University with Bachelor D
 #### 🔭 Currently working at [Stockbit](https://www.stockbit.com/) as iOS Engineer.
 
 # Previously :
+ - Stockbit , PT Stockbit Sekuritas ([Stockbit](http://www.stockbit.com/)) as iOS Engineer
+ - RoomMe , PT Duit Orang Tua ([RoomMe](http://www.roomme.id/)) as Senior iOS Developer
  - SehatQ , PT Harsana Emedika ([SehatQ](http://www.sehatq.com/)) as Senior iOS Developer
- - Hello Chat App Messanger [Hello Chat](http://www.helochat.id/) as Senior iOS Developer
- - HiApp Chat App Messanger [HiApp](http://www.hiapp.id) as Senior iOS Developer
- - Pasar Udang [Pasar Udang](http://www.pasarudang.com) as Senior iOS Developer
+ - Hello Chat App Messanger [Hello Chat](http://www.helochat.id/) as iOS Developer
+ - HiApp Chat App Messanger [HiApp](http://www.hiapp.id) as iOS Developer
+ - Pasar Udang [Pasar Udang](http://www.pasarudang.com) as iOS Developer
  - DOT Indonesia - Creative Digital Agency [DOT](https://www.dot.co.id) as iOS Developer & AVP Mobile Engineer
 
 # Other Notes:
