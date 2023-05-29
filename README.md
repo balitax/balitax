@@ -24,6 +24,7 @@ I graduated from Maulana Malik Ibrahim Malang Islamic University with Bachelor D
 <br/>
 
 ![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=balitax&count_private=true&show_icons=true&theme=radical)
+![snake svg](https://github.com/balitax/balitax/blob/output/github-contribution-grid-snake.gif)
 
 
 #### 🔭 Currently working at [Stockbit](https://www.stockbit.com/) as iOS Engineer.
