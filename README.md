@@ -4,7 +4,10 @@ I'm  *Agus Cahyono*  and it's a great pleasure to meet you.
 <br />
 
 ## About me 👨‍💻
-I graduated from Maulana Malik Ibrahim Malang Islamic University with Bachelor Degree in Informatics Engineering. I've been working in software development for over 5+ years, and have spent the last 4 years working as iOS Developer. 
+Greetings! I am a seasoned iOS Developer with a solid 5-year track record in crafting innovative mobile applications. My expertise lies in creating seamless user experiences and delivering high-quality code.
+
+Coding has always been my true passion, as it allows me to bring ideas to life and solve complex problems. I find immense satisfaction in developing efficient and user-friendly applications that enhance people's lives.
+
 <br />
 
 ## iOS Development 📱
