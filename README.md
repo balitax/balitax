@@ -1,37 +1,17 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Agus Cahyono
+====================================================================================================================================
 
-### Hi 👋 
-I'm  *Agus Cahyono*  and it's a great pleasure to meet you.
-<br />
+iOS Engineer
+------------
 
-## About me 👨‍💻
-Greetings! I am a seasoned iOS Developer with a solid 5-year track record in crafting innovative mobile applications. My expertise lies in creating seamless user experiences and delivering high-quality code.
+an iOS Engineer with over 5 years of hands-on experience, I specialize in architecting, developing, and optimizing iOS apps using Swift, SwiftUI. Skilled in integrating with backend APIs, implementing robust UI/UX designs, and optimizing app performance for a seamless user experience.
 
-Coding has always been my true passion, as it allows me to bring ideas to life and solve complex problems. I find immense satisfaction in developing efficient and user-friendly applications that enhance people's lives.
-
-<br />
-
-## iOS Development 📱
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift 5+, Objc-C & iOS 16+ Frameworks
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/158831428-918705d6-4bc3-4456-9e54-8cce2da587d7.png"/> UIKit, SwiftUI & more
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759739-c594c55b-6f04-4feb-9278-bc82258ff89e.png"/> Unit, UI, Snapshot & Integration tests (XCTest)
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759812-84a076dd-06c4-4bde-b441-d8e16e8640bc.png"/> MVC, MVVM, VIPER, VIP & Clean Architecture
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759817-9402e32f-adab-452b-a533-c35b18839202.png"/> C.I, C.D, Git flow, Kanban & Scrum
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155760079-81550bf2-5aca-4d37-a0c2-6fa7f18f2444.png"/> Clean Code, SOLID
-- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759945-93cb9157-e2a3-4227-8b39-8dc387effe56.png"/> iOS Design Patterns
-
-## Main programming languages
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![PHP](https://img.shields.io/badge/php-3670A0?style=for-the-badge&logo=php&logoColor=ffdd54)
-
-<br/>
-<br/>
-
-![Agus's GitHub stats](https://github-readme-stats.vercel.app/api?username=balitax&count_private=true&show_icons=true&theme=radical)
-![snake svg](https://github.com/balitax/balitax/blob/output/github-contribution-grid-snake.gif)
-
-
-#### 🔭 Currently working at [Stockbit](https://www.stockbit.com/) as iOS Engineer.
-
+* 🌍  I'm based in Jakarta, Indonesia
+* ✉️  You can contact me at [cahyo.mamen@gmail.com](mailto:cahyo.mamen@gmail.com)
+* 🚀  I'm currently working on [Bareksa iOS App](http://apps.apple.com/id/app/bareksa-super-app-investasi/id1316876694)
+* 🧠  I'm learning SwiftUI, ML, Content Creation, Digital Marketing
+* 🤝  I'm open to collaborating on iOS App, Content Creation, SaaS App
+  
 # Previously :
  - Stockbit , PT Stockbit Sekuritas ([Stockbit](http://www.stockbit.com/)) as iOS Engineer
  - RoomMe , PT Duit Orang Tua ([RoomMe](http://www.roomme.id/)) as Senior iOS Developer
@@ -41,21 +21,36 @@ Coding has always been my true passion, as it allows me to bring ideas to life a
  - Pasar Udang [Pasar Udang](http://www.pasarudang.com) as iOS Developer
  - DOT Indonesia - Creative Digital Agency [DOT](https://www.dot.co.id) as iOS Developer & AVP Mobile Engineer
 
-<br/>
-<br/>
+  
+## iOS Development 📱
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759319-69ca0edf-36dd-4d9d-b7a8-1074b2112e29.png"/> Swift 5+, Objc-C & iOS 16+ Frameworks
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/158831428-918705d6-4bc3-4456-9e54-8cce2da587d7.png"/> UIKit, SwiftUI & more
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759739-c594c55b-6f04-4feb-9278-bc82258ff89e.png"/> Unit, UI, Snapshot & Integration tests (XCTest)
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759812-84a076dd-06c4-4bde-b441-d8e16e8640bc.png"/> MVC, MVVM, VIPER, VIP & Clean Architecture
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759817-9402e32f-adab-452b-a533-c35b18839202.png"/> C.I, C.D, Git flow, Kanban & Scrum
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155760079-81550bf2-5aca-4d37-a0c2-6fa7f18f2444.png"/> Clean Code, SOLID
+- <img width=15 src="https://user-images.githubusercontent.com/59176579/155759945-93cb9157-e2a3-4227-8b39-8dc387effe56.png"/> iOS Design Patterns
 
-# Other Notes:
 
-- 🌱 I’m currently learning -> Social Media Marketing, Selling, Mobile App Development, StartUp Building, aquaculture, agriculture, etc
-- 👯 I’m looking to collaborate on iOS Development or Create Digital StartUp Idea
-- 💬 You can Ask me about -> Swift or iOS Development Environment
-- 📫 How to reach me: [agus.c@icloud.com](agus.c@icloud.com)
-- ⚡ Fun fact: Take me fishing, I'll find a big fish for us MukBang
+### Skills
 
-<br/>
-<br/>
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+</p>
 
-## Social 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/cahyocode/)
-[<img src="https://img.shields.io/badge/My_Channel_Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white">](https://www.youtube.com/channel/UCgqlKLZpWRxslwtw6DWI8lA/featured)
+### Socials
 
+<p align="left"> <a href="https://www.dev.to/balitax" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/cahyocode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/balitax" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/aguscahyo__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/cahyocode" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@aguscahyono" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/5606777/agus-cahyono" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/gauscahyono" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@cahyomamenagus" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@aguscahyo__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/balitax"><img src="https://github-readme-stats.vercel.app/api?username=balitax&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="balitax's GitHub stats" /></a>
+
+### Support Me
+
+<ul style="list-style-type: none; margin: 0;">
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/masagusid"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+
+</ul>
